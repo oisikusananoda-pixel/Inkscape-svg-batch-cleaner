@@ -32,6 +32,7 @@ It is designed to run on **Google Colab** and is useful for preparing SVG files 
 * Even if the original folder contains non-SVG files, only SVG files will be processed.
 * Non-SVG files are automatically excluded from the output ZIP file.
 * The visual appearance of the SVG files is not changed.
+*Parts of this project were developed with the assistance of AI tools.
 
 ---
 
@@ -87,7 +88,7 @@ MIT License
 * 変換前のフォルダーにSVG以外のファイルが含まれていても、SVGファイルのみが処理されます。
 * SVG以外のファイルは出力されるZIPファイルには含まれません。
 * SVGの見た目（描画結果）は変更されません。
-
+*このプロジェクトの一部はAIツールを用いて開発されました。
 ---
 
 ## 動作環境
